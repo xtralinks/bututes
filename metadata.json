@@ -1,0 +1,6 @@
+{
+  "name": "Bulge Keyboard",
+  "description": "A premium, iPhone-inspired keyboard with a dynamic bulge effect and glassmorphic design.",
+  "requestFramePermissions": ["gyroscope", "accelerometer"],
+  "majorCapabilities": []
+}
